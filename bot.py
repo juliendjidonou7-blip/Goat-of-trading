@@ -1,4 +1,5 @@
 import time
+import sys; sys.stdout.reconfigure(line_buffering=True)
 import os
 import http.server
 import socketserver
